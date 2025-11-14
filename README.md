@@ -1,19 +1,28 @@
-### Hi there 👋
-- 🔭 I’m currently working on [Pixelcom](https://www.pixelcom.io)
-- 👯 I’m looking to collaborate on any Open Source project
-- 💬 Ask me about Cloud, K8S, Prometheus, Networking or programming
-- 📫 How to reach me: [@wolmi](https://twitter.com/wolmi)
-<!--
-**wolmi/wolmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Miquel 👋
 
-Here are some ideas to get you started:
+Based in Europe, building with AI, infrastructure, and code. I blend DevOps expertise with creative development, exploring how AI transforms the way we build and operate systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Into
+Full-stack engineer at heart—comfortable spanning **infrastructure automation**, **backend development**, and **AI integration**. Currently obsessed with how AI can make development and DevOps workflows smarter and more intuitive through vibe coding.
+
+## Right Now
+- 🤖 AI-powered tools & workflows
+- 🔧 Infrastructure & DevOps automation
+- 💻 Building scalable systems with code
+- ✨ Creative engineering with AI
+- 🧪 Experimenting with new tech
+
+## Let's Connect
+I'm active across multiple platforms—choose your favorite to reach out:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/miquelramonortegatido/) – Professional updates
+- 𝕏 [Twitter/X](https://x.com/wolmi) – Tech thoughts and updates
+- 🎬 [TikTok](https://www.tiktok.com/@miquelramon) – Short-form content
+- 💻 [GitHub](https://github.com/wolmi) – Code and projects
+
+## Fun Fact
+You'll catch me on TikTok, X, and LinkedIn sharing thoughts on AI, creative coding, and building cool stuff. Always down to collaborate on projects that feel right or just chat about the future of AI and development.
+
+---
+
+*Always learning, always building.* 🚀
